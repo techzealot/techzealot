@@ -1,5 +1,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=techzealot&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![techzealot's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=techzealot)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techzealot&repo=brainfuck-java&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
