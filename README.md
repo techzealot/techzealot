@@ -2,8 +2,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techzealot&repo=brainfuck-java&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tnu-suite&repo=tvm-java)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **techzealot/techzealot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
