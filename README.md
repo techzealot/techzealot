@@ -1,8 +1,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=techzealot&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techzealot&repo=brainfuck-java)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techzealot&repo=brainfuck-java&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techzealot&repo=tvm-java)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tnu-suite&repo=tvm-java)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
