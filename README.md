@@ -6,7 +6,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techzealot&repo=brainfuck-java&show_owner=true)](https://github.com/techzealot/brainfuck-java)
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brainfusk&repo=brainfuck-c&show_owner=true)](https://github.com/brainfusk/brainfuck-c)
 <!--
 homepage:
 https://github.com/anuraghazra/github-readme-stats
