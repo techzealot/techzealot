@@ -4,7 +4,7 @@
 
 ![techzealot's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=techzealot)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techzealot&repo=brainfuck-java&show_owner=true)](https://github.com/techzealot/brainfuck-java)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brainfusk&repo=brainfuck-java&show_owner=true)](https://github.com/brainfusk/brainfuck-java)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brainfusk&repo=brainfuck-c&show_owner=true)](https://github.com/brainfusk/brainfuck-c)
 <!--
