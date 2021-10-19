@@ -4,9 +4,14 @@
 
 ![techzealot's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=techzealot&layout=compact)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brainfusk&repo=brainfuck-java&show_owner=true)](https://github.com/brainfusk/brainfuck-java)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tnu-suite&repo=tinux-riscv&show_owner=true)](https://github.com/tnu-suite/tinux-riscv)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tnu-suite&repo=tvm-java&show_owner=true)](https://github.com/tnu-suite/tvm-java)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brainfusk&repo=brainfuck-c&show_owner=true)](https://github.com/brainfusk/brainfuck-c)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brainfusk&repo=brainfuck-java&show_owner=true)](https://github.com/brainfusk/brainfuck-java)
+
 <!--
 homepage:
 https://github.com/anuraghazra/github-readme-stats
