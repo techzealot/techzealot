@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=techzealot&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![techzealot](./sizu-pixel.png)
 
 ![techzealot's GitHub stats](https://github-readme-stats.vercel.app/api?username=techzealot&show_icons=true&include_all_commits=true)
