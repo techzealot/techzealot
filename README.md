@@ -1,3 +1,10 @@
+I am a developer based in China/Shenzhen, specializing in building java applications and other interesting things.
+- 🔭 I’m currently working on build my own os kernel,git,db ...
+- 🌱 I’m currently learning java,rust,go,os
+- 👯 I’m looking to collaborate on great idea
+- 💬 Ask me about everything if I know
+- 📫 How to reach me: [e-mail] techzealot@foxmail.com
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=techzealot&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![techzealot](./sizu-pixel.png)
