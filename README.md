@@ -4,6 +4,7 @@ I am a developer based in China/Shenzhen, specializing in building java applicat
 - 👯 I’m looking to collaborate on great idea
 - 💬 Ask me about everything if I know
 - 📫 How to reach me: [e-mail] techzealot@foxmail.com
+- 💰 My blog: https://techzealot.github.io/
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=techzealot&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
