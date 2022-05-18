@@ -1,6 +1,6 @@
 I am a developer based in China/Shenzhen, specializing in building high performance applications and other interesting things.
 - 🔭 I’m currently working on building my own os kernel,git,db ...
-- 🌱 I’m currently learning java,rust,go,os
+- 🌱 I’m currently learning java,kotlin,rust,go,os
 - 👯 I’m looking to collaborate on great idea
 - 💬 Ask me about everything if I know
 - 📫 How to reach me: [e-mail] techzealot@foxmail.com
