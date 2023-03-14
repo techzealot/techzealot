@@ -8,7 +8,7 @@ I am a developer based in China/Shenzhen, specializing in building high performa
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=techzealot&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-![techzealot](./sizu-pixel.png)
+<!-- ![techzealot](./sizu-pixel.png) -->
 
 <!-- ![Repobeats](https://repobeats.axiom.co/api/embed/b9d58850f566fe71206d0ddc3f44b94839a7ddae.svg "Repobeats analytics image") -->
 
