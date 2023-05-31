@@ -16,7 +16,7 @@ I am a developer based in China/Shenzhen, specializing in building high performa
 
 ![techzealot's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=techzealot&layout=compact)
 
-[![techzealot's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=techzealot&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![techzealot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=techzealot&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tnu-suite&repo=tinux-riscv&show_owner=true)](https://github.com/tnu-suite/tinux-riscv) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tnu-suite&repo=tvm-java&show_owner=true)](https://github.com/tnu-suite/tvm-java) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
