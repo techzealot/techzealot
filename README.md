@@ -22,7 +22,11 @@ I am a developer based in China/Shenzhen, specializing in building high performa
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brainfusk&repo=brainfuck-c&show_owner=true)](https://github.com/brainfusk/brainfuck-c) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brainfusk&repo=brainfuck-java&show_owner=true)](https://github.com/brainfusk/brainfuck-java) |
 
-![Github Contribution Graph](https://github.com/techzealot/techzealot/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/techzealot/techzealot/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/techzealot/techzealot/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/techzealot/techzealot/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <h3 align="left">🧠 My tech stacks:</h3>
 <!-- https://github.com/devicons/devicon -->
