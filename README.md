@@ -6,7 +6,7 @@ I am a developer based in China/Shenzhen, specializing in building high performa
 - 📫 How to reach me: [e-mail] techzealot@foxmail.com
 - 💰 My blog: https://techzealot.github.io/
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=techzealot&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-kannan.vercel.app/?username=techzealot&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- ![techzealot](./sizu-pixel.png) -->
 
