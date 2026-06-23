@@ -12,15 +12,11 @@ I am a developer based in China/Shenzhen, specializing in building high performa
 
 <!-- ![Repobeats](https://repobeats.axiom.co/api/embed/b9d58850f566fe71206d0ddc3f44b94839a7ddae.svg "Repobeats analytics image") -->
 
-![techzealot's GitHub stats](https://github-readme-stats.vercel.app/api?username=techzealot&show_icons=true&count_private=true)
+<!-- ![techzealot's GitHub stats](https://github-readme-stats.vercel.app/api?username=techzealot&show_icons=true&count_private=true) -->
 
 ![techzealot's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=techzealot&layout=compact)
 
 [![techzealot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=techzealot&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tnu-suite&repo=tinux-riscv&show_owner=true)](https://github.com/tnu-suite/tinux-riscv) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tnu-suite&repo=tvm-java&show_owner=true)](https://github.com/tnu-suite/tvm-java) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brainfusk&repo=brainfuck-c&show_owner=true)](https://github.com/brainfusk/brainfuck-c) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brainfusk&repo=brainfuck-java&show_owner=true)](https://github.com/brainfusk/brainfuck-java) |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/techzealot/techzealot/blob/output/github-contribution-grid-snake-dark.svg" />
