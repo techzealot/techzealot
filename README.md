@@ -14,7 +14,7 @@ I am a developer based in China/Shenzhen, specializing in building high performa
 
 <!-- ![techzealot's GitHub stats](https://github-readme-stats.vercel.app/api?username=techzealot&show_icons=true&count_private=true) -->
 
-![techzealot's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=techzealot&layout=compact)
+![techzealot's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=techzealot&layout=compact&langs_count=20)
 
 [![techzealot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=techzealot&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
