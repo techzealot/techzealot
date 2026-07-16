@@ -13,11 +13,13 @@ I am a developer based in China/Shenzhen, specializing in building high performa
 
 [![techzealot's github activity graph](https://raw.githubusercontent.com/techzealot/techzealot/output/activity-graph.svg)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[<picture>
+<a href="https://github.com/Platane/snk">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/techzealot/techzealot/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/techzealot/techzealot/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://github.com/techzealot/techzealot/blob/output/github-contribution-grid-snake.svg" />
-</picture>](https://github.com/Platane/snk)
+</picture>
+</a>
 
 <h3 align="left">🧠 My tech stacks:</h3>
 <!-- https://github.com/devicons/devicon -->
