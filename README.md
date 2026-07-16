@@ -15,9 +15,9 @@ I am a developer based in China/Shenzhen, specializing in building high performa
 
 <a href="https://github.com/Platane/snk">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/techzealot/techzealot/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/techzealot/techzealot/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/techzealot/techzealot/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techzealot/techzealot/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techzealot/techzealot/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/techzealot/techzealot/output/github-contribution-grid-snake.svg" />
 </picture>
 </a>
 
