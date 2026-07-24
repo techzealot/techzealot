@@ -23,7 +23,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: wakatime
-          options: username=techzealot&layout=compact&langs_count=20
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=20
           path: dist/wakatime-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -31,15 +31,15 @@ jobs:
       - name: Generate Profile Trophy
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
-          username: techzealot
+          username: ${{ github.repository_owner }}
           file: dist/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TROPHY_TOKEN }}
 
       # 3. Activity Graph
       - name: Generate Activity Graph
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
-          username: techzealot
+          username: ${{ github.repository_owner }}
           options: theme=merko
           output_path: dist/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
